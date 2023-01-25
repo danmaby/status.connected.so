@@ -28,5 +28,8 @@ status-website:
     - title: Mastodon
       href: https://connected.so
 
+status-website:
+      theme: night
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
