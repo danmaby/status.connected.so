@@ -5,12 +5,8 @@ repo: status.connected.so # The name of this repository
 sites:
   - name: Connected
     url: https://connected.so
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Big Orange Heart
+    url: https://www.bigorangeheart.org
     
 assignees: # Users to assign downtime issues (optional)
     - danmaby
