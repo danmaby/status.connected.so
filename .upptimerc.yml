@@ -6,7 +6,7 @@ sites:
   - name: Connected
     url: https://connected.so
   - name: Big Orange Heart
-    url: https://www.bigorangeheart.org
+    url: https://www.bigorangeheart.org 
     
 assignees: # Users to assign downtime issues (optional)
     - danmaby
