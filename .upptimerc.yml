@@ -18,13 +18,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Connected Status
-  introTitle: "**Connected** Mastodon Instance Status."
+  introTitle: "**Connected** - Mastodon instance status."
   introMessage: This is the **real-time** status page for the [Connected](https://connected.so) Mastodon instance. Follow open issues in the [GitHub Repo](https://github.com/danmaby/status.connected.so).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Mastodon
+      href: https://connected.so
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
