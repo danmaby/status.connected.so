@@ -3,13 +3,12 @@ owner: danmaby # Your GitHub organization or username, where this repository liv
 repo: status.connected.so # The name of this repository
 
 sites:
-  - name: Connected
+  - name: connected.so
     url: https://connected.so
-  - name: Big Orange Heart
+  - name: bigorangeheart.org
     url: https://www.bigorangeheart.org 
-    
-assignees: # Users to assign downtime issues (optional)
-    - danmaby
+    assignees: # Users to assign downtime issues (optional)
+      - danmaby
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
