@@ -4,9 +4,9 @@
     "url": "https://connected.so",
     "icon": "https://icons.duckduckgo.com/ip3/connected.so.ico",
     "slug": "connected-so",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 552,
     "timeMonth": 611,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-25": 0
+    }
   },
   {
     "name": "bigorangeheart.org",
