@@ -4,8 +4,8 @@
     "url": "https://connected.so",
     "icon": "https://icons.duckduckgo.com/ip3/connected.so.ico",
     "slug": "connected-so",
-    "status": "up",
-    "uptime": "87.04%",
+    "status": "down",
+    "uptime": "87.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 606,
     "timeYear": 644,
     "dailyMinutesDown": {
+      "2024-05-26": 0,
       "2024-02-26": 698,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
