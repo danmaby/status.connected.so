@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/connected.so.ico",
     "slug": "connected-so",
     "status": "down",
-    "uptime": "79.60%",
+    "uptime": "79.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2024-07-11": 24,
+      "2024-07-12": 23,
+      "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -117,8 +118,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   },
   {
@@ -132,10 +132,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 355,
-    "timeWeek": 270,
-    "timeMonth": 250,
+    "time": 220,
+    "timeDay": 391,
+    "timeWeek": 289,
+    "timeMonth": 255,
     "timeYear": 222,
     "dailyMinutesDown": {}
   }
