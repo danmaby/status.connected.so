@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/connected.so.ico",
     "slug": "connected-so",
     "status": "up",
-    "uptime": "77.95%",
+    "uptime": "77.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.94%",
+    "uptimeMonth": "71.36%",
     "uptimeYear": "65.96%",
     "time": 658,
     "timeDay": 630,
@@ -150,19 +150,19 @@
     "url": "https://www.bigorangeheart.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.bigorangeheart.org.ico",
     "slug": "bigorangeheart-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 3238,
-    "timeWeek": 1127,
-    "timeMonth": 526,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "87.29%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.97%",
+    "time": 249,
+    "timeDay": 2567,
+    "timeWeek": 1079,
+    "timeMonth": 527,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 183
     }
   }
 ]
