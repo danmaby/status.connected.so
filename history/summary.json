@@ -8,7 +8,7 @@
     "uptime": "77.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.83%",
+    "uptimeMonth": "70.85%",
     "uptimeYear": "65.96%",
     "time": 658,
     "timeDay": 630,
@@ -150,11 +150,11 @@
     "url": "https://www.bigorangeheart.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.bigorangeheart.org.ico",
     "slug": "bigorangeheart-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 4751,
@@ -162,7 +162,7 @@
     "timeMonth": 536,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-12-11": 4
+      "2024-12-11": 0
     }
   }
 ]
