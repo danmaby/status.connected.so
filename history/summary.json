@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/connected.so.ico",
     "slug": "connected-so",
     "status": "up",
-    "uptime": "78.22%",
+    "uptime": "78.23%",
     "uptimeDay": "96.92%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "68.18%",
-    "time": 626,
-    "timeDay": 985,
-    "timeWeek": 480,
-    "timeMonth": 447,
-    "timeYear": 601,
+    "uptimeYear": "68.31%",
+    "time": 629,
+    "timeDay": 1569,
+    "timeWeek": 603,
+    "timeMonth": 480,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2025-06-03": 44,
       "2025-06-01": 52,
@@ -135,8 +135,7 @@
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
-      "2024-06-05": 1440,
-      "2024-06-04": 1440
+      "2024-06-05": 1440
     }
   },
   {
@@ -150,10 +149,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.96%",
-    "time": 408,
-    "timeDay": 571,
-    "timeWeek": 410,
-    "timeMonth": 400,
+    "time": 409,
+    "timeDay": 266,
+    "timeWeek": 408,
+    "timeMonth": 399,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-04-16": 570,
